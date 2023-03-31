@@ -1,6 +1,6 @@
 Name:		texlive-apalike-ejor
 Version:	59667
-Release:	1
+Release:	2
 Summary:	A BibTeX style file for the European Journal of Operational Research
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/apalike-ejor
