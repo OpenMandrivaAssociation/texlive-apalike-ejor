@@ -3,7 +3,7 @@ Version:	59667
 Release:	2
 Summary:	A BibTeX style file for the European Journal of Operational Research
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/apalike-ejor
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/apalike-ejor
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/apalike-ejor.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/apalike-ejor.doc.r%{version}.tar.xz
